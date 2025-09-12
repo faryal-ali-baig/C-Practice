@@ -9,6 +9,10 @@ This repository contains my practice programs in C++ while learning programming 
 - Functions
 - Classes & Objects
 - Constructors
+  
+## Pass by Value vs Pass by Reference
+- **Pass by Value:** A copy of the variable is passed. Changes inside the function do NOT affect the original variable.
+- **Pass by Reference:** The function works with the original variable directly. Changes inside the function DO affect the original variable.
 
 ## Example Programs
 - Student.cpp → Class & Object example
@@ -19,13 +23,7 @@ This repository contains my practice programs in C++ while learning programming 
 - [PassByValue.cpp](Functions/PassByValue.cpp) → Demonstrates pass-by-value (original variable remains unchanged)
 - [PassByValue.cpp](Functions/PassByValue.cpp) → Demonstrates pass-by-value (original variable remains unchanged)
 - [PassByReference.cpp](Functions/PassByReference.cpp) → Demonstrates pass-by-reference (original variable is modified)
-- ## Pass-by-value vs Pass-by-reference (quick)
-- **Pass-by-value**: The function receives a *copy* of the value. Changes inside the function do **not** affect the original variable.  
-  **Example output:** `Value of a after function call: 5` (from `PassByValue.cpp`)
-
-- **Pass-by-reference**: The function receives a *reference* to the original variable (using `&`). Changes inside the function **do** change the original variable.  
-  **Example output:** `Value of a after function call: 100` (from `PassByReference.cpp`)
-  - Swap.cpp → Demonstrates Pass by Value vs Pass by Reference (swap example)
+- Swap.cpp → Demonstrates Pass by Value vs Pass by Reference (swap example)
  
 
 
