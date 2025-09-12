@@ -16,6 +16,8 @@ This repository contains my practice programs in C++ while learning programming 
 - Calculator.cpp → Simple calculator
 - Rectangle.cpp → Area & Perimeter using class
 - Fibonacci.cpp → Fibonacci series
+- [PassByValue.cpp](Functions/PassByValue.cpp) → Demonstrates pass-by-value (original variable remains unchanged)
+
 
 ## How to Run
 Compile and run using g++:
