@@ -25,7 +25,8 @@ This repository contains my practice programs in C++ while learning programming 
 
 - **Pass-by-reference**: The function receives a *reference* to the original variable (using `&`). Changes inside the function **do** change the original variable.  
   **Example output:** `Value of a after function call: 100` (from `PassByReference.cpp`)
- - Swap.cpp → Shows swapping numbers using Pass by Value vs Pass by Reference  
+  - Swap.cpp → Demonstrates Pass by Value vs Pass by Reference (swap example)
+ 
 
 
 
