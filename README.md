@@ -24,6 +24,8 @@ This repository contains my practice programs in C++ while learning programming 
 - [PassByValue.cpp](Functions/PassByValue.cpp) → Demonstrates pass-by-value (original variable remains unchanged)
 - [PassByReference.cpp](Functions/PassByReference.cpp) → Demonstrates pass-by-reference (original variable is modified)
 - Swap.cpp → Demonstrates Pass by Value vs Pass by Reference (swap example)
+- StaticExamples/StudentCounter.cpp → Demonstrates static data member & static member function
+- StaticExamples/EmployeeTracker.cpp → Counts total employees using static members
  
 
 
