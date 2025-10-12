@@ -11,10 +11,9 @@ This repository contains my practice programs in C++ while learning programming 
 - Constructors
 - Static Data Members & Static Member Functions
 ## Example Programs
-# Pass by Value vs Pass by Reference
 - **Pass by Value:** A copy of the variable is passed. Changes inside the function do NOT affect the original variable.
 - **Pass by Reference:** The function works with the original variable directly. Changes inside the function DO affect the original variable.
-   [PassByValue.cpp](Functions/PassByValue.cpp) → Demonstrates pass-by-value (original variable remains unchanged)
+- [PassByValue.cpp](Functions/PassByValue.cpp) → Demonstrates pass-by-value (original variable remains unchanged)
 - [PassByValue.cpp](Functions/PassByValue.cpp) → Demonstrates pass-by-value (original variable remains unchanged)
 - [PassByReference.cpp](Functions/PassByReference.cpp) → Demonstrates pass-by-reference (original variable is modified)
 - Swap.cpp → Demonstrates Pass by Value vs Pass by Reference (swap example)
