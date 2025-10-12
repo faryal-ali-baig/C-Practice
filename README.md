@@ -9,6 +9,7 @@ This repository contains my practice programs in C++ while learning programming 
 - Functions
 - Classes & Objects
 - Constructors
+- Static Data Members & Static Member Functions
   
 ## Pass by Value vs Pass by Reference
 - **Pass by Value:** A copy of the variable is passed. Changes inside the function do NOT affect the original variable.
