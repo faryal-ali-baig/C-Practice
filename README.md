@@ -25,6 +25,7 @@ This repository contains my practice programs in C++ while learning programming 
 - StaticExamples/StudentCounter.cpp → Demonstrates static data member & static member function
 - StaticExamples/EmployeeTracker.cpp → Counts total employees using static members
 - [Array of Object (Book Program)](book.cpp)
+- [Passing Object as Function Argument (Time Program)] (time_add.cpp)
  
 
 
