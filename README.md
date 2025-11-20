@@ -24,6 +24,7 @@ This repository contains my practice programs in C++ while learning programming 
 - Fibonacci.cpp → Fibonacci series
 - StaticExamples/StudentCounter.cpp → Demonstrates static data member & static member function
 - StaticExamples/EmployeeTracker.cpp → Counts total employees using static members
+- [Array of Object (Book Program)](book.cpp)
  
 
 
