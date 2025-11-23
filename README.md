@@ -26,8 +26,9 @@ This repository contains my practice programs in C++ while learning programming 
 - StaticExamples/EmployeeTracker.cpp → Counts total employees using static members
 - [Array of Object (Book Program)](book.cpp)
 - [Passing Object as Function Argument (Time Program)] (time_add.cpp)
-- [Friend Function (Rectangle area program)] (friend_function_rectangle.cpp)
-- [Friend Class (Box volume program)] (friend_class_box.cpp)
+- [Friend Function (Rectangle area program)](friend_function_rectangle.cpp)
+- [Friend Class (Box volume program)](friend_class_box.cpp)
+- [Friend Member Function (Another Class)](friend_member_function.cpp)
  
 
 
