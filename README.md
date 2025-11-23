@@ -27,6 +27,7 @@ This repository contains my practice programs in C++ while learning programming 
 - [Array of Object (Book Program)](book.cpp)
 - [Passing Object as Function Argument (Time Program)] (time_add.cpp)
 - [Friend Function (Rectangle area program)] (friend_function_rectangle.cpp)
+- [Friend Class (Box volume program)] (friend_class_box.cpp)
  
 
 
