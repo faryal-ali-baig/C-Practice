@@ -30,6 +30,7 @@ This repository contains my practice programs in C++ while learning programming 
 - [Friend Class (Box volume program)](friend_class_box.cpp)
 - [Friend Member Function (Another Class)](friend_member_function.cpp)
 - [Car Class (Default Constructor Program)](car_default_constructor.cpp)
+- [Rectangle Class (Parameterized Constructor Program)](rectangle_parameterized_constructor.cpp)
  
 
 
