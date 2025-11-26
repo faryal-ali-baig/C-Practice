@@ -33,6 +33,8 @@ This repository contains my practice programs in C++ while learning programming 
 - [Rectangle Class (Parameterized Constructor Program)](rectangle_parameterized_constructor.cpp)
 - [Box Class (Copy Constructor Program)](box_copy_constructor.cpp)
 - [Demo Class (Destructor Program)](demo_destructor.cpp)
+- [Animal & Dog (Inheritance Program)](animal_dog_inheritance.cpp)
+
  
 
 
