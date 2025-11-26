@@ -34,6 +34,8 @@ This repository contains my practice programs in C++ while learning programming 
 - [Box Class (Copy Constructor Program)](box_copy_constructor.cpp)
 - [Demo Class (Destructor Program)](demo_destructor.cpp)
 - [Animal & Dog (Inheritance Program)](animal_dog_inheritance.cpp)
+- [Person & Student (Single Inheritance Program)](person_student_inheritance.cpp)
+
 
  
 
