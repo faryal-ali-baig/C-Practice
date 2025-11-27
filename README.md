@@ -36,6 +36,7 @@ This repository contains my practice programs in C++ while learning programming 
 - [Animal & Dog (Inheritance Program)](animal_dog_inheritance.cpp)
 - [Person & Student (Single Inheritance Program)](person_student_inheritance.cpp)
 - [Class A & B (Inheritance with Private Member Access)](classA_classB_inheritance_getter.cpp)
+- [Parent & Child (Protected Member Inheritance Program)](parent_child_protected_inheritance.cpp)
 
 
  
