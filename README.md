@@ -37,6 +37,7 @@ This repository contains my practice programs in C++ while learning programming 
 - [Person & Student (Single Inheritance Program)](person_student_inheritance.cpp)
 - [Class A & B (Inheritance with Private Member Access)](classA_classB_inheritance_getter.cpp)
 - [Parent & Child (Protected Member Inheritance Program)](parent_child_protected_inheritance.cpp)
+- [Base & Derived (Public Member Inheritance Program)](base_derived_public_inheritance.cpp)
 
 
  
