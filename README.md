@@ -10,6 +10,7 @@ This repository contains my practice programs in C++ while learning programming 
 - Classes & Objects
 - Constructors
 - Static Data Members & Static Member Functions
+- Inheritance
 ## Example Programs
 - **Pass by Value:** A copy of the variable is passed. Changes inside the function do NOT affect the original variable.
 - **Pass by Reference:** The function works with the original variable directly. Changes inside the function DO affect the original variable.
