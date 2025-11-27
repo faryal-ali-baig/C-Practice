@@ -35,6 +35,7 @@ This repository contains my practice programs in C++ while learning programming 
 - [Demo Class (Destructor Program)](demo_destructor.cpp)
 - [Animal & Dog (Inheritance Program)](animal_dog_inheritance.cpp)
 - [Person & Student (Single Inheritance Program)](person_student_inheritance.cpp)
+- [Class A & B (Inheritance with Private Member Access)](classA_classB_inheritance_getter.cpp)
 
 
  
